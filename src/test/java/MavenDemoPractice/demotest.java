@@ -7,5 +7,7 @@ public class demotest {
 	@Test
 	public void demotest() {
 		System.out.println("welcome");
+		//Hi
+		//hai
 	}
 }
