@@ -9,6 +9,6 @@ public class demotest {
 		//welcome
 		System.out.println("welcome");
 		//Hi
-		//hai
+		//welcome
 	}
 }
