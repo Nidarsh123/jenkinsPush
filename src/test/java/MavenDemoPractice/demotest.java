@@ -8,7 +8,6 @@ public class demotest {
 	public void demotest() {
 		//welcome
 		System.out.println("welcome");
-		//Hi
 		//welcome1
 		//update successfully
 	}
